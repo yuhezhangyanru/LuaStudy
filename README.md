@@ -1,4 +1,4 @@
 # LuaStudy
 lua study collection
 
-testlog6
+testlog7
